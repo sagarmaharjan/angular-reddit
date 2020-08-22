@@ -1,6 +1,6 @@
 # AngularReddit
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.<br/>
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5. <br/>
 Link for the app[Angular Reddit](https://angular-reddit-seven-gamma.vercel.app/)
 
 ## Development server
